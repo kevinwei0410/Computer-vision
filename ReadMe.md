@@ -1,0 +1,3 @@
+* semantic segmentation
+* stitching
+* thinning
